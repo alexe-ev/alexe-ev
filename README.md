@@ -11,6 +11,7 @@ Currently building open-source CLI products with AI.
 ## What I shipped here
 
 🔧 **[RetensiOS](https://github.com/alexe-ev/RetensiOS)** — feed it a transaction CSV, get customer segments, churn scores, and a retention playbook. One command, no SQL, no dashboards. Built it because every time I needed this analysis it was "the analyst will get to it next sprint." Spoiler: they never did.
+🧠 **[product-ops](https://github.com/alexe-ev/product-plugins)** — 121 structured skill for AI agents doing product work. Each skill tells the agent what to ask, how to reason, and what the output should look like. Covers 15 domains: experimentation, data analytics, GTM, risk, growth, and more. Built because "just ask Claude" gives generic answers — these give PM-grade rigor.
 
 More stuff coming 🚀
 
