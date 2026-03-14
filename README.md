@@ -1,6 +1,7 @@
 # Hey, I'm Evgeny 👋
 
 I build practical AI-powered tools for product work.
+
 I focus on turning recurring product problems into tools people can actually run — without waiting for analysts, dashboards, or engineering bandwidth.
 
 Currently building open-source CLI products with AI.
