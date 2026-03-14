@@ -1,8 +1,6 @@
 # Hey, I'm Evgeny 👋
 
 I build practical AI-powered tools for product work.
-
-Product manager by background.  
 I focus on turning recurring product problems into tools people can actually run — without waiting for analysts, dashboards, or engineering bandwidth.
 
 Currently building open-source CLI products with AI.
@@ -12,6 +10,7 @@ Currently building open-source CLI products with AI.
 
 - 🔧 **[RetensiOS](https://github.com/alexe-ev/RetensiOS)** — feed it a transaction CSV, get customer segments, churn scores, and a retention playbook. One command, no SQL, no dashboards.
 - 🧠 **[product-plugins](https://github.com/alexe-ev/product-plugins)** — 15 plugins with 121 skills across experimentation, analytics, GTM, growth, risk, and more.
+
 More stuff coming 🚀
 
 ## Background
