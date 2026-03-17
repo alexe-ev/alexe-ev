@@ -9,9 +9,10 @@ Currently building open-source CLI products with AI.
 
 ## What I shipped here
 
+- 🎙️ **[Murmur](https://github.com/alexe-ev/Murmur) - A macOS menu bar tool that captures your voice and delivers clean, natural text in the language you need.
 - 📠 **[ml-impact-calculator](https://github.com/alexe-ev/ml-impact-calculator)** - An interactive calculator that converts precision, recall, and confidence threshold into dollars.
-- 🔧 **[RetensiOS](https://github.com/alexe-ev/RetensiOS)** — feed it a transaction CSV, get customer segments, churn scores, and a retention playbook. One command, no SQL, no dashboards.
-- 🧠 **[product-plugins](https://github.com/alexe-ev/product-plugins)** — 15 plugins with 121 skills across experimentation, analytics, GTM, growth, risk, and more.
+- 🔧 **[RetensiOS](https://github.com/alexe-ev/RetensiOS)** - feed it a transaction CSV, get customer segments, churn scores, and a retention playbook. One command, no SQL, no dashboards.
+- 🧠 **[product-plugins](https://github.com/alexe-ev/product-plugins)** - 15 plugins with 121 skills across experimentation, analytics, GTM, growth, risk, and more.
 
 More stuff coming 🚀
 
