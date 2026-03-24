@@ -12,7 +12,7 @@ Most AI products look good in demos and fall apart in operations. I’m interest
 - 🔧 **[RetensiOS](https://github.com/alexe-ev/RetensiOS)** - a retention decision tool that turns transaction data into customer segments, churn signals, and action-oriented playbooks.
 - 🧠 **[product-plugins](https://github.com/alexe-ev/product-plugins)** - a structured skill library for AI agents doing product work across experimentation, analytics, GTM, growth, risk, and strategy.
 
-## In progres
+## In progress
 
 - ⚖️ **AI A/B Testing Tool** — compare prompts and models, manage eval sets, run structured evaluations, and track results over time
 - 🪙 **AI Economics Calculator** — monitor agent costs, usage, unit economics, and optimization opportunities across AI workflows
