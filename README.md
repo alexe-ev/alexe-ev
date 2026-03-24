@@ -26,7 +26,7 @@ Most AI products look good in demos and fall apart in operations. I’m interest
 
 ## Background
 
-Lead Product Manager focused on marketplaces, B2C platforms, monetization, retention, and product operations.
+Lead Product Manager with experience across marketplaces and B2C platforms, focused on monetization, retention, and product operations.
 
 ## Contact
 
