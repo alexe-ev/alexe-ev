@@ -1,29 +1,33 @@
 # Hey, I'm Evgeny 👋
 
-I build practical AI-powered tools for product work.
+I build practical systems for AI-native product work.
+My focus is on evals, AI economics, retention tooling, model impact, and product decision infrastructure.
 
-I focus on turning recurring product problems into tools people can actually run — without waiting for analysts, dashboards, or engineering bandwidth.
-
-Currently building open-source CLI products with AI.
-
+Most AI products look good in demos and fall apart in operations. I’m interested in the layer underneath: how to compare prompts and models, evaluate quality, measure business impact, track agent economics, and turn repeated product work into usable tools.
 
 ## What I shipped here
 
-- 🎙️ **[Murmur](https://github.com/alexe-ev/Murmur)** - A macOS menu bar tool that captures your voice and delivers clean, natural text in the language you need.
-- 📠 **[ml-impact-calculator](https://github.com/alexe-ev/ml-impact-calculator)** - An interactive calculator that converts precision, recall, and confidence threshold into dollars.
-- 🔧 **[RetensiOS](https://github.com/alexe-ev/RetensiOS)** - feed it a transaction CSV, get customer segments, churn scores, and a retention playbook. One command, no SQL, no dashboards.
-- 🧠 **[product-plugins](https://github.com/alexe-ev/product-plugins)** - 15 plugins with 121 skills across experimentation, analytics, GTM, growth, risk, and more.
+- 🎙️ **[Murmur](https://github.com/alexe-ev/Murmur)** - a macOS menu bar app that turns spoken input into clean, usable text in another language. Built for voice-to-meaning workflows, not raw transcription.
+- 📠 **[ml-impact-calculator](https://github.com/alexe-ev/ml-impact-calculator)** - a PM tool for ML threshold decisions that converts model quality into error cost, support load, and churn impact.
+- 🔧 **[RetensiOS](https://github.com/alexe-ev/RetensiOS)** - a retention decision tool that turns transaction data into customer segments, churn signals, and action-oriented playbooks.
+- 🧠 **[product-plugins](https://github.com/alexe-ev/product-plugins)** - a structured skill library for AI agents doing product work across experimentation, analytics, GTM, growth, risk, and strategy.
 
-In progress
-- **AI A/B Testing Tool** — compare prompts and models, manage eval sets, run structured evaluations, and track results over time
-- **AI Economics Calculator** — monitor agent costs, usage, unit economics, and optimization opportunities across AI workflows
+## In progres
 
-More stuff coming 🚀
+- ⚖️ **AI A/B Testing Tool** — compare prompts and models, manage eval sets, run structured evaluations, and track results over time
+- 🪙 **AI Economics Calculator** — monitor agent costs, usage, unit economics, and optimization opportunities across AI workflows
+
+## What I care about
+
+- making AI systems measurable, comparable, and economically sane
+- turning repeated product work into reusable tools
+- connecting model quality to business outcomes
+- building systems that are useful beyond the demo
 
 ## Background
 
 Lead Product Manager focused on marketplaces, B2C platforms, monetization, retention, and product operations.
 
-## Say hi
+## Contact
 
 💬 [Telegram](https://t.me/alexe_ev) · 💼 [LinkedIn](https://www.linkedin.com/in/evgeny-alexeev)
