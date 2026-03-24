@@ -14,7 +14,7 @@ Currently building open-source CLI products with AI.
 - 🔧 **[RetensiOS](https://github.com/alexe-ev/RetensiOS)** - feed it a transaction CSV, get customer segments, churn scores, and a retention playbook. One command, no SQL, no dashboards.
 - 🧠 **[product-plugins](https://github.com/alexe-ev/product-plugins)** - 15 plugins with 121 skills across experimentation, analytics, GTM, growth, risk, and more.
 
-## In progress
+In progress
 	•	**AI A/B Testing Tool** — compare prompts and models, manage eval sets, run structured evaluations, and track results over time
 	•	**AI Economics Calculator** — monitor agent costs, usage, unit economics, and optimization opportunities across AI workflows
 
