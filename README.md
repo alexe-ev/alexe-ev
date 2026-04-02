@@ -8,6 +8,7 @@ Most AI products look good in demos and fall apart in operations. I’m interest
 ## What I shipped here
 
 - 🪙 **[AI Economics Calculator](https://github.com/alexe-ev/ai_economics_calculator)** - monitor agent costs, usage, unit economics, and optimization opportunities across AI workflows
+- ⚖️ **[AI A/B Testing Tool](https://github.com/alexe-ev/ai-ab-testing-tool)** - compare prompts and models, manage eval sets, run structured evaluations, and track results over time
 - 🎙️ **[Murmur](https://github.com/alexe-ev/Murmur)** - a macOS menu bar app that turns spoken input into clean, usable text in another language. Built for voice-to-meaning workflows, not raw transcription.
 - 📠 **[ML Impact Calculator](https://github.com/alexe-ev/ml-impact-calculator)** - a PM tool for ML threshold decisions that converts model quality into error cost, support load, and churn impact.
 - 🔧 **[RetensiOS](https://github.com/alexe-ev/RetensiOS)** - a retention decision tool that turns transaction data into customer segments, churn signals, and action-oriented playbooks.
@@ -15,7 +16,7 @@ Most AI products look good in demos and fall apart in operations. I’m interest
 
 ## In progress
 
-- ⚖️ **AI A/B Testing Tool** - compare prompts and models, manage eval sets, run structured evaluations, and track results over time
+- 🔀 **Multi-Model Router** - Intelligent LLM routing engine that cuts AI costs by 40-70% by automatically sending each request to the right model based on its complexity, without sacrificing response quality.
 
 ## What I care about
 
