@@ -16,7 +16,7 @@ Most AI products look good in demos and fall apart in operations. I’m interest
 
 ## In progress
 
-- 🔀 **Multi-Model Router** - Intelligent LLM routing engine that cuts AI costs by 40-70% by automatically sending each request to the right model based on its complexity, without sacrificing response quality.
+- 🔀 **[Multi-Model Router](https://github.com/alexe-ev/multi-model-router)** - Intelligent LLM routing engine that cuts AI costs by 40-70% by automatically sending each request to the right model based on its complexity, without sacrificing response quality.
 
 ## What I care about
 
