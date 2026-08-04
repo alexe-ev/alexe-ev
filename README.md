@@ -1,14 +1,15 @@
 # Hey, I'm Evgeny 👋
 
-I build practical systems for AI-native product work.
-My focus is on evals, AI economics, retention tooling, model impact, and product decision infrastructure.
+I'm a product manager who builds the layer underneath AI products: the economics, evals, and decision infrastructure that decide whether they survive production.
 
-Most AI products look good in demos and fall apart in operations. I’m interested in the layer underneath: how to compare prompts and models, evaluate quality, measure business impact, track agent economics, and turn repeated product work into usable tools.
+Most AI products look good in demos and fall apart in operations. I work on the layer underneath: what a request actually costs, how quality gets measured before users measure it for you, which model should serve which request, and what a model's precision means in support tickets and churn.
+
+**In production:** [Whisperly](https://whisperly.io), a paid macOS dictation app I build and run solo. The eval harness gates releases; unit economics is a product constraint. Its open-source predecessor is [Murmur](https://github.com/alexe-ev/Murmur).
 
 ## What I shipped here
 
-- 🔀 **[Multi-Model Router](https://github.com/alexe-ev/multi-model-router)** - Intelligent LLM routing engine that cuts AI costs by 40-70% by automatically sending each request to the right model based on its complexity, without sacrificing response quality.
-- 🪙 **[AI Economics Calculator](https://github.com/alexe-ev/ai_economics_calculator)** - monitor agent costs, usage, unit economics, and optimization opportunities across AI workflows
+- 🔀 **[Multi-Model Router](https://github.com/alexe-ev/multi-model-router)** - LLM routing engine that sends each request to the cheapest model that can handle it, up to 80% lower spend vs a single premium model.
+- 🪙 **[AI Economics](https://github.com/alexe-ev/ai-economics)** - interactive calculator for AI feature costs: token pricing, optimization stacks, cascade routing, agent economics, unit economics
 - ⚖️ **[AI A/B Testing Tool](https://github.com/alexe-ev/ai-ab-testing-tool)** - compare prompts and models, manage eval sets, run structured evaluations, and track results over time
 - 🎙️ **[Murmur](https://github.com/alexe-ev/Murmur)** - a macOS menu bar app that turns spoken input into clean, usable text in another language. Built for voice-to-meaning workflows, not raw transcription.
 - 📠 **[ML Impact Calculator](https://github.com/alexe-ev/ml-impact-calculator)** - a PM tool for ML threshold decisions that converts model quality into error cost, support load, and churn impact.
