@@ -2,7 +2,7 @@
 
 I'm a product manager who builds the layer underneath AI products: the economics, evals, and decision infrastructure that decide whether they survive production.
 
-Most AI products look good in demos and fall apart in operations. I work on the layer underneath: what a request actually costs, how quality gets measured before users measure it for you, which model should serve which request, and what a model's precision means in support tickets and churn.
+Every repo below started as a decision I needed a number for.
 
 **In production:** [Whisperly](https://whisperly.io), a paid macOS dictation app I build and run solo. The eval harness gates releases; unit economics is a product constraint. Its open-source predecessor is [Murmur](https://github.com/alexe-ev/Murmur).
 
