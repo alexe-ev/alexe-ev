@@ -1,32 +1,40 @@
 # Hey, I'm Evgeny 👋
 
-I'm a product manager who builds the layer underneath AI products: the economics, evals, and decision infrastructure that decide whether they survive production.
+Every AI product has two lives. The first is the demo: a hand-picked request, a strong model, an impressed room, and nobody asking what it cost. The second starts when real traffic arrives, and it runs on different fuel: cost per request, quality nobody is watching anymore, latency at the 99th percentile, a bill that grows faster than usage. Most teams prepare carefully for the first life and improvise the second.
 
-Every repo below started as a decision I needed a number for.
+I'm a product manager who builds the layer underneath AI products: the economics, evals, and decision infrastructure that decide whether they survive production. The full argument: [After the Demo](https://github.com/alexe-ev/ai-economics/blob/main/after-the-demo.md).
 
-**In production:** [Whisperly](https://whisperly.io), a paid macOS dictation app I build and run solo. The eval harness gates releases; unit economics is a product constraint. Its open-source predecessor is [Murmur](https://github.com/alexe-ev/Murmur).
+[whisperly.io](https://whisperly.io) · [LinkedIn](https://www.linkedin.com/in/evgeny-alexeev) · [AI Economics series](https://github.com/alexe-ev/ai-economics#the-ai-economics-series)
 
-## What I shipped here
+## In production
 
-- 🔀 **[Multi-Model Router](https://github.com/alexe-ev/multi-model-router)** - LLM routing engine that sends each request to the cheapest model that can handle it, up to 80% lower spend vs a single premium model.
-- 🪙 **[AI Economics](https://github.com/alexe-ev/ai-economics)** - interactive calculator for AI feature costs: token pricing, optimization stacks, cascade routing, agent economics, unit economics
-- ⚖️ **[AI A/B Testing Tool](https://github.com/alexe-ev/ai-ab-testing-tool)** - compare prompts and models, manage eval sets, run structured evaluations, and track results over time
-- 🎙️ **[Murmur](https://github.com/alexe-ev/Murmur)** - a macOS menu bar app that turns spoken input into clean, usable text in another language. Built for voice-to-meaning workflows, not raw transcription.
-- 📠 **[ML Impact Calculator](https://github.com/alexe-ev/ml-impact-calculator)** - a PM tool for ML threshold decisions that converts model quality into error cost, support load, and churn impact.
-- 🔧 **[RetensiOS](https://github.com/alexe-ev/RetensiOS)** - a retention decision tool that turns transaction data into customer segments, churn signals, and action-oriented playbooks.
-- 🧠 **[Product plugins](https://github.com/alexe-ev/product-plugins)** - a structured skill library for AI agents doing product work across experimentation, analytics, GTM, growth, risk, and strategy.
+[Whisperly](https://whisperly.io) is a paid macOS dictation app I build and run solo: it turns messy speech into clean, ready-to-send text. It is also where this layer gets tested on real users. The eval harness gates every release, and unit economics is a product constraint, so every model swap is a margin decision. Its open-source predecessor is [Murmur](https://github.com/alexe-ev/Murmur).
 
+## The system
 
-## What I care about
+Every repo here started as a decision I needed a number for. Six stages, one direction:
 
-- making AI systems measurable, comparable, and economically sane
-- turning repeated product work into reusable tools
-- connecting model quality to business outcomes
-- building systems that are useful beyond the demo
+![The layer underneath AI products: economics → evals → routing → impact → skills → production](assets/the-layer.svg)
 
-## Background
+[ai-economics](https://github.com/alexe-ev/ai-economics) → [ai-ab-testing-tool](https://github.com/alexe-ev/ai-ab-testing-tool) → [multi-model-router](https://github.com/alexe-ev/multi-model-router) → [ml-impact-calculator](https://github.com/alexe-ev/ml-impact-calculator) → [product-plugins](https://github.com/alexe-ev/product-plugins) → [whisperly.io](https://whisperly.io)
 
-Lead Product Manager with experience across marketplaces and B2C platforms, focused on monetization, retention, and product operations.
+<details>
+<summary>Text version</summary>
+
+```
+economics        → evals         → routing      → impact           → skills           → production
+what it costs    → is it better  → which model  → quality to money → repeatable work  → where it survives
+```
+
+</details>
+
+## The research
+
+[AI Economics](https://github.com/alexe-ev/ai-economics): 26 posts written March to May 2026, from token pricing through model selection and agent cost patterns to unit economics. The interactive calculator implements the math. [Read the series](https://github.com/alexe-ev/ai-economics#the-ai-economics-series) or [open the calculator](https://alexe-ev.github.io/ai-economics/).
+
+## Now
+
+Shipping Whisperly for macOS, prototyping its iOS app, writing build-in-public essays on [LinkedIn](https://www.linkedin.com/in/evgeny-alexeev). *Updated August 2026.*
 
 ## Contact
 
