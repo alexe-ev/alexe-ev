@@ -8,7 +8,7 @@ I'm a product manager who builds the layer underneath AI products: the economics
 
 ## In production
 
-[Whisperly](https://whisperly.io) is a paid macOS dictation app I build and run solo: it turns messy speech into clean, ready-to-send text. It is also where this layer gets tested on real users. The eval harness gates every release, and unit economics is a product constraint, so every model swap is a margin decision. Its open-source predecessor is [Murmur](https://github.com/alexe-ev/Murmur).
+[Whisperly](https://whisperly.io) is a paid macOS and Windows dictation app I build and run solo: it turns messy speech into clean, ready-to-send text. It is also where this layer gets tested on real users. The eval harness gates every release, and unit economics is a product constraint, so every model swap is a margin decision. Its open-source predecessor is [Murmur](https://github.com/alexe-ev/Murmur).
 
 ## The system
 
