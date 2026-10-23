@@ -32,9 +32,6 @@ what it costs    → is it better  → which model  → quality to money → rep
 
 [AI Economics](https://github.com/alexe-ev/ai-economics): 26 posts written March to May 2026, from token pricing through model selection and agent cost patterns to unit economics. The interactive calculator implements the math. [Read the series](https://github.com/alexe-ev/ai-economics#the-ai-economics-series) or [open the calculator](https://alexe-ev.github.io/ai-economics/).
 
-## Now
-
-Shipping Whisperly for macOS, prototyping its iOS app, writing build-in-public essays on [LinkedIn](https://www.linkedin.com/in/evgeny-alexeev). *Updated August 2026.*
 
 ## Contact
 
